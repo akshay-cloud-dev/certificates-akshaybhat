@@ -6,7 +6,7 @@ Welcome to my certification showcase! This repository highlights my achievements
 
 | Certificate Title | Issuer | Preview | Notes |
 |-------------------|--------|---------|-------|
-| Logo Design Competition 2025 | India Inspires | [View](certificates/logo_design.pdf) | Short-listed for national-level logo design contest |
+| Logo Design Competition 2025 | Indian Institute of Science | [View](certificates/logo_design.pdf) | Short-listed for national-level logo design contest |
 | India Inspires Certificate | India Inspires | [View](certificates/india_inspire.pdf) | Recognized for creative contribution |
 | Python Programming | INI Institution | [View](certificates/ini_insti.pdf) | Completed INI's Python course |
 | Internship at Mirai School | Mirai School of Technology | [View](certificates/mirai.pdf) | Hands-on experience in tech projects (Built different projects on AI and Agents) |
